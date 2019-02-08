@@ -1,0 +1,5 @@
+{
+    "apikey": "nqJeCXuGBBRyQValMllij9dh5QozJ0oX",
+    "maproute": "https://www.mapquest.com/directions/from/near-{},{}/to/near-{},{}",
+    "mapimage": "https://www.mapquestapi.com/staticmap/v5/map?start={},{}&end={},{}&size=600,400@2x&key={}"
+}

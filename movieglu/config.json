@@ -1,0 +1,10 @@
+{
+    "server": "https://api-gate2.movieglu.com/",
+    "headers": {
+        "client": "UNIB",
+        "x-api-key": "Ufaey3XFlH4KzcdQMnBPA8EW1peyvbyiaZ7RHFYu",
+        "authorization": "Basic VU5JQjpyWkdaeHFNbXZKNnI=",
+        "api-version": "v200",
+        "territory": "UK"
+    }
+}

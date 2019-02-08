@@ -1,0 +1,8 @@
+{
+    "server": "https://api.foursquare.com/v2/venues/",
+    "headers": {
+        "client_id": "UCLS45LWH1200W25DLICSSQXG4UY25AWQFJVZ2UZ0MDJQ2OC",
+        "client_secret": "ZL055UXJ5VQPE1OR4TIGL5SFS3YA3LJ2ZXOCJTBBYG1VHBQW",
+        "v": "20180323"
+    }
+}

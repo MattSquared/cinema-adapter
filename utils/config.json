@@ -1,0 +1,6 @@
+{
+    "repository": {
+        "foursquare": "./.repository/foursquare",
+        "movieglu": "./.repository/movieglu"
+    }
+} 
