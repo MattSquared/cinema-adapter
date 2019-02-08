@@ -121,11 +121,6 @@ class FourSquareAdapter:
         info = self.__fetchVenueInfo(venueId)
         hours = self.__fetchVenueHours(venueId)
         if info and hours: 
-            result = {
-                "cinemainfo": {
-                    "name": query,
-                    "info": {**info, **hours}
-                }
-            }
+            result = {"cinemainfo": {**info, **hours}}
             return result
 
